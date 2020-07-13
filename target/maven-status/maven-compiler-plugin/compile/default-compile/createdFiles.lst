@@ -1,0 +1,4 @@
+com\ange\flyplugin\config\FlyConfig.class
+com\ange\flyplugin\FlyPlugin.class
+com\ange\flyplugin\messages\Messages.class
+com\ange\flyplugin\command\FlyCommand.class
